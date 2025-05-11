@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Deepanshu49
 - 👀 I’m interested in CP and Open source.
-- 🌱 I’m currently pursuing B.tech.
 - ⚡ Fun fact: I try even I fail ......
 
 <!---
