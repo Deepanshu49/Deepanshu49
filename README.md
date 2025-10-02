@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Final year CSE student passionate about **development** and **problem-solving**
+- 🎓 Pre Final year CSE student passionate about **development** and **problem-solving**
 - 💡 I build **full-stack apps**, contribute to **open source**, and enjoy **competitive coding**
 - 🔁 Learning: **Docker**, **Cloud DevOps**, **Networking Protocols**
 - 💬 Ask me about anything in **MERN**, **Java**, **Linux**, **DBMS**, or **CP**
