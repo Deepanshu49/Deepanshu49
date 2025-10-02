@@ -88,12 +88,6 @@
   <a href="https://www.hackerrank.com/profile/codexdeepanshu">
     <img src="https://img.shields.io/badge/HackerRank-Expert-2EC866?logo=hackerrank" />
   </a>
-  <a href="https://leetcode.com/u/DipShu">
-    <img src="https://img.shields.io/badge/LeetCode?logo=leetcode" />
-  </a>
-  <a href="https://codeforces.com/profile/deepanshu49">
-    <img src="https://img.shields.io/badge/Codeforces?logo=codeforces" />
-  </a>
   <a href="https://www.codechef.com/users/deepanshu_49">
     <img src="https://img.shields.io/badge/CodeChef-2%20Star-5B4638?logo=codechef" />
   </a>
