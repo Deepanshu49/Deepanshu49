@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>3rd Year Computer Science Engineering Student</b><br>
-  MERN Stack Developer • Java Expert • Linux Geek • Competitive Programmer • Networking Enthusiast
+  MERN Stack Developer • Python Expert • Linux Geek • Competitive Programmer • Networking Enthusiast
 </p>
 
 ---
@@ -78,24 +78,24 @@
 - ☕ Java, DS & Algos, OOP, Collections  
 - 🔒 Linux Administration, Shell Scripting  
 - 🌐 Networking: TCP/IP, tools, protocols  
-- 🧠 Expert Competitive Programmer
+- 🧠 Good Competitive Programmer
 
 ---
 
 ## 🏅 Competitive Programming Profiles
 
 <p align="left">
-  <a href="https://www.hackerrank.com/your_username">
+  <a href="https://www.hackerrank.com/profile/codexdeepanshu">
     <img src="https://img.shields.io/badge/HackerRank-Expert-2EC866?logo=hackerrank" />
   </a>
-  <a href="https://leetcode.com/your_username">
-    <img src="https://img.shields.io/badge/LeetCode-Gold-orange?logo=leetcode" />
+  <a href="https://leetcode.com/u/DipShu">
+    <img src="https://img.shields.io/badge/LeetCode?logo=leetcode" />
   </a>
-  <a href="https://codeforces.com/profile/your_username">
-    <img src="https://img.shields.io/badge/Codeforces-Candidate%20Master-blue?logo=codeforces" />
+  <a href="https://codeforces.com/profile/deepanshu49">
+    <img src="https://img.shields.io/badge/Codeforces?logo=codeforces" />
   </a>
-  <a href="https://www.codechef.com/users/your_username">
-    <img src="https://img.shields.io/badge/CodeChef-4%20Star-5B4638?logo=codechef" />
+  <a href="https://www.codechef.com/users/deepanshu_49">
+    <img src="https://img.shields.io/badge/CodeChef-2%20Star-5B4638?logo=codechef" />
   </a>
 </p>
 
@@ -103,8 +103,8 @@
 
 ## 📫 Connect with Me
 
-- 📧 Email: your.email@example.com  
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
+- 📧 Email: codexdeepanshu@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/deepanshu-shukla-codex)  
 - 🧑‍💻 GitHub: [Deepanshu49](https://github.com/Deepanshu49)
 
 ---
@@ -122,5 +122,5 @@
 ---
 
 <p align="center">
-  <sub>🕓 Last updated on <strong>October 2, 2025</strong></sub>
+  <sub>Let's Build with ❤️ by Deepanshu Shukla </strong></sub>
 </p>
